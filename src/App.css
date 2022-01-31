@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+nav {
+  background-color: black;
+  color: aliceblue;
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+}
+form {
+  margin-top: 20px;
+}
+
+form input {
+  margin-left: 8px;
+  margin-right: 8px;
+}
+#price {
+  color: blue;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
